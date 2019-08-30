@@ -1,12 +1,704 @@
 {
   "data": [
     {
-      "nombre": "francisco",
-      "puntos": 1
+      "play_time": "2015-03-30T01:01:19+03:00",
+      "player_name": "Lynn Guy",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
     },
     {
-      "nombre": "ricardo",
-      "puntos": 2
+      "play_time": "2019-05-10T06:21:40+04:00",
+      "player_name": "Richmond Jackson",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2017-11-19T01:49:15+03:00",
+      "player_name": "Graciela Daniel",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-02-14T01:43:08+03:00",
+      "player_name": "Barber Mcclain",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-11-06T07:23:49+03:00",
+      "player_name": "Gordon Whitley",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-01-28T12:58:02+03:00",
+      "player_name": "Reese Mooney",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-11-27T10:55:11+03:00",
+      "player_name": "Daniels Singleton",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-04-13T08:53:12+03:00",
+      "player_name": "Short Hawkins",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-04-01T10:37:51+03:00",
+      "player_name": "Fisher West",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2017-02-08T03:30:15+03:00",
+      "player_name": "Hester Kirkland",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2019-08-05T08:57:11+04:00",
+      "player_name": "Pena Flowers",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-11-01T06:32:54+03:00",
+      "player_name": "Dorothea Ewing",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-09-12T01:02:43+03:00",
+      "player_name": "Hester Spears",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-07-02T05:50:33+04:00",
+      "player_name": "Haynes Watkins",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2019-05-04T09:10:34+04:00",
+      "player_name": "Kenya Hobbs",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-07-14T04:22:31+04:00",
+      "player_name": "Lorie Wilson",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-01-22T01:17:35+03:00",
+      "player_name": "Madeline Banks",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2018-11-15T01:42:41+03:00",
+      "player_name": "Benton Andrews",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2019-04-18T06:18:31+04:00",
+      "player_name": "Snyder Sanchez",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-09-25T07:11:39+03:00",
+      "player_name": "Munoz Weber",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-03-24T09:53:06+03:00",
+      "player_name": "Rita Foster",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-08-01T11:33:13+04:00",
+      "player_name": "Richardson Conner",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-07-20T08:55:13+04:00",
+      "player_name": "Casandra Ramos",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2018-03-19T07:39:50+03:00",
+      "player_name": "Jayne Nixon",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-08-01T10:14:21+04:00",
+      "player_name": "Farley Pena",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-04-20T05:55:04+03:00",
+      "player_name": "Nettie Chambers",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-05-29T05:41:07+03:00",
+      "player_name": "Erma Roman",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-09-18T10:39:19+03:00",
+      "player_name": "Mccormick Britt",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-09-02T04:42:47+03:00",
+      "player_name": "Golden Drake",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-03-17T04:23:36+03:00",
+      "player_name": "Coleen Boone",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-05-22T01:47:43+04:00",
+      "player_name": "Walls Case",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2018-11-04T11:22:39+03:00",
+      "player_name": "Vang Ball",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-05-14T06:35:48+04:00",
+      "player_name": "Henderson Estrada",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-01-11T05:39:01+03:00",
+      "player_name": "Briggs Williamson",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2016-10-19T08:43:40+03:00",
+      "player_name": "Sonja Reynolds",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-11-28T07:52:11+03:00",
+      "player_name": "Kitty Keller",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2017-03-03T07:28:40+03:00",
+      "player_name": "Laurel Cox",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-09-26T06:01:19+03:00",
+      "player_name": "Della Moss",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-12-24T12:08:28+03:00",
+      "player_name": "Britney Colon",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-03-12T11:10:36+03:00",
+      "player_name": "Hobbs Sanford",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-10-08T06:03:22+03:00",
+      "player_name": "Hernandez Hardy",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-11-04T08:19:02+03:00",
+      "player_name": "Rosemary Atkinson",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-08-23T11:00:58+04:00",
+      "player_name": "Young Francis",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2017-03-27T12:53:10+03:00",
+      "player_name": "Elisa Dejesus",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2016-06-09T03:10:41+04:00",
+      "player_name": "Connie Cardenas",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-08-14T01:00:33+03:00",
+      "player_name": "Dotson Carson",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-02-06T10:36:55+03:00",
+      "player_name": "Miles Gates",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-07-25T04:54:16+04:00",
+      "player_name": "Obrien Bean",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2016-03-12T07:57:04+03:00",
+      "player_name": "Velasquez Mcmillan",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-10-02T12:25:25+03:00",
+      "player_name": "Brooke Kent",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-01-11T09:36:52+03:00",
+      "player_name": "Ashlee Rosa",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-01-17T10:47:42+03:00",
+      "player_name": "Michael Mcdaniel",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2016-10-30T12:58:17+03:00",
+      "player_name": "Buckner Hendrix",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-08-07T10:33:52+04:00",
+      "player_name": "Holloway Jacobs",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-11-14T01:14:50+03:00",
+      "player_name": "Bernadette Delaney",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-01-25T06:35:25+03:00",
+      "player_name": "Tanisha Moran",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-01-09T05:58:21+03:00",
+      "player_name": "Nelson Mcpherson",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-06-28T07:02:17+04:00",
+      "player_name": "Selma Hatfield",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-03-19T03:32:13+03:00",
+      "player_name": "Cruz Forbes",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2016-09-12T04:27:47+03:00",
+      "player_name": "Navarro Haynes",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2014-08-31T10:21:42+04:00",
+      "player_name": "Moore Le",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2017-07-05T11:30:55+04:00",
+      "player_name": "Shaffer Lott",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-05-19T09:03:40+04:00",
+      "player_name": "Turner Harrison",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-10-20T04:51:33+03:00",
+      "player_name": "Sonia Odom",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2017-09-24T12:25:14+03:00",
+      "player_name": "Hoffman Guerrero",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-10-18T12:26:59+03:00",
+      "player_name": "Imogene Carney",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-04-19T03:00:10+03:00",
+      "player_name": "Rowena Hansen",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-06-10T07:44:07+04:00",
+      "player_name": "Sophie Morin",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-07-04T02:39:31+04:00",
+      "player_name": "Deana Lyons",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2016-05-03T01:44:48+03:00",
+      "player_name": "Michael Crawford",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-08-29T12:56:22+03:00",
+      "player_name": "Gale Carroll",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-03-11T05:04:55+03:00",
+      "player_name": "Puckett Barry",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-08-16T10:34:20+03:00",
+      "player_name": "Angelina Richard",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-05-28T05:41:43+04:00",
+      "player_name": "Jillian Palmer",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2018-11-24T06:55:12+03:00",
+      "player_name": "Hicks Henson",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2018-03-25T11:37:17+03:00",
+      "player_name": "Autumn Summers",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-03-27T04:38:51+03:00",
+      "player_name": "Valerie Downs",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-06-04T06:28:16+04:00",
+      "player_name": "Head Russo",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-02-07T05:13:59+03:00",
+      "player_name": "Hebert Coffey",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-04-06T07:22:57+03:00",
+      "player_name": "Rochelle English",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-07-18T11:42:39+04:00",
+      "player_name": "Karla Crane",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-07-06T03:32:05+04:00",
+      "player_name": "Rhodes Frank",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-08-22T11:55:22+03:00",
+      "player_name": "Cardenas Meyer",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2019-03-13T03:56:38+03:00",
+      "player_name": "Gay Oneill",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2019-05-20T10:25:15+04:00",
+      "player_name": "Berry Wolfe",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-05-19T08:02:20+04:00",
+      "player_name": "Gayle Dawson",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-11-26T10:56:53+03:00",
+      "player_name": "Sallie Rich",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-02-18T04:58:53+03:00",
+      "player_name": "Francis Thompson",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-02-26T01:19:32+03:00",
+      "player_name": "Rice Gay",
+      "player_choice": "papel",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2015-09-22T10:19:19+03:00",
+      "player_name": "Booker Williams",
+      "player_choice": "piedra",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-01-28T09:46:08+03:00",
+      "player_name": "Hanson Sanders",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2014-04-15T04:19:38+03:00",
+      "player_name": "Jaime Kirby",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-02-10T11:40:39+03:00",
+      "player_name": "Hampton Newman",
+      "player_choice": "tijera",
+      "bot_choice": "papel",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-12-28T11:33:24+03:00",
+      "player_name": "Park George",
+      "player_choice": "tijera",
+      "bot_choice": "piedra",
+      "result": "empate"
+    },
+    {
+      "play_time": "2016-07-21T12:56:27+04:00",
+      "player_name": "Hubbard Brown",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2015-05-19T02:59:57+03:00",
+      "player_name": "Mcfadden Swanson",
+      "player_choice": "piedra",
+      "bot_choice": "tijera",
+      "result": "gana"
+    },
+    {
+      "play_time": "2014-10-08T04:28:11+03:00",
+      "player_name": "Merle Hogan",
+      "player_choice": "papel",
+      "bot_choice": "piedra",
+      "result": "gana"
+    },
+    {
+      "play_time": "2018-02-07T01:28:04+03:00",
+      "player_name": "Solomon Espinoza",
+      "player_choice": "papel",
+      "bot_choice": "papel",
+      "result": "empate"
+    },
+    {
+      "play_time": "2017-11-04T08:33:56+03:00",
+      "player_name": "Cheryl Richardson",
+      "player_choice": "tijera",
+      "bot_choice": "tijera",
+      "result": "empate"
+    },
+    {
+      "play_time": "2018-03-26T07:40:26+03:00",
+      "player_name": "Huff Hoover",
+      "player_choice": "piedra",
+      "bot_choice": "papel",
+      "result": "empate"
     }
   ]
 }
