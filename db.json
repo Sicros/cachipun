@@ -1,3 +1,12 @@
 {
-  "data": []
+  "data": [
+    {
+      "nombre": "francisco"
+      , "puntos": 1
+    }
+    , {
+      "nombre": "ricardo"
+      , "puntos": 2
+    }
+  ]
 }
